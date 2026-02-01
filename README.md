@@ -37,7 +37,7 @@
 
 ## Вклад
 Если вы хотите внести свой вклад в развитие проекта, вы можете:
-- Сообщить об ошибках или проблемах в разделе [Issues](https://github.com/your-repo/your-project](https://github.com/Acrym48/arch-linux-on-xiaomi-mido/issues).
+- Сообщить об ошибках или проблемах в разделе [Issues](https://github.com/Acrym48/arch-linux-on-xiaomi-mido/issues).
 - Предложить улучшения или новые функции.
 - Помочь с документацией.
 - Прислать пулл-реквест с исправлениями или улучшениями.
